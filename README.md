@@ -16,3 +16,6 @@ For our purposes, the target variable is the delta between “Days for shipping 
 
 ---
 This project has been executed using Databricks Runtime Version 13.3 LTS DBR ML cluster.
+
+---
+A PowerBI report that contains some insightful visualization to further improve the analysis is available.
